@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Environment Variables & API Keys
+.env
+
+# Local Databases
+*.db
+*.sqlite
+chroma_maritime_db/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Streamlit logs
+.streamlit/
